@@ -1,0 +1,53 @@
+.container {
+    height: 220px;
+    border: solid red;
+
+    
+    h1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: green;
+        text-decoration: underline blue;
+        
+    }
+
+    section {
+        display: flex;
+        flex-direction: row;
+        
+        
+    }
+
+  article {
+    
+    margin: auto;
+    width: 350px;
+    height: 110px;
+    border: solid green;
+  }
+
+   .p1 {
+    margin-top: 25px;
+    color: blue;
+    text-align: center;
+   }
+
+   .p2 {
+    margin-top: 25px;
+    color: red;
+    text-align: center;
+   }
+
+   .p3 {
+    margin-top: 25px;
+    color: blue;
+    text-align: center;
+   }
+
+   .p4 {
+    margin-top: 25px;
+    color: red;
+    text-align: center;
+   }
+}
